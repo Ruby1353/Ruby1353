@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruby1353
+- 👋 Hi, I’m @UgurAy
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning  Pyhton
 - 💞️ I’m looking to collaborate on 
